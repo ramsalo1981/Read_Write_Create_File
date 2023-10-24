@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\bin\Debug\net7.0\CAIDisposapleDesignPattern.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\bin\Debug\net7.0\CAIDisposapleDesignPattern.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\bin\Debug\net7.0\CAIDisposapleDesignPattern.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\bin\Debug\net7.0\CAIDisposapleDesignPattern.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\bin\Debug\net7.0\CAIDisposapleDesignPattern.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\obj\Debug\net7.0\CAIDisposapleDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\obj\Debug\net7.0\CAIDisposapleDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\obj\Debug\net7.0\CAIDisposapleDesignPattern.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\obj\Debug\net7.0\CAIDisposapleDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\obj\Debug\net7.0\CAIDisposapleDesignPattern.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\obj\Debug\net7.0\refint\CAIDisposapleDesignPattern.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\obj\Debug\net7.0\CAIDisposapleDesignPattern.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\obj\Debug\net7.0\CAIDisposapleDesignPattern.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAIDisposapleDesignPattern\obj\Debug\net7.0\ref\CAIDisposapleDesignPattern.dll

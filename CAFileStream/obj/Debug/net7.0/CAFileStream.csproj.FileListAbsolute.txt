@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\bin\Debug\net7.0\CAFileStream.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\bin\Debug\net7.0\CAFileStream.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\bin\Debug\net7.0\CAFileStream.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\bin\Debug\net7.0\CAFileStream.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\bin\Debug\net7.0\CAFileStream.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\obj\Debug\net7.0\CAFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\obj\Debug\net7.0\CAFileStream.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\obj\Debug\net7.0\CAFileStream.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\obj\Debug\net7.0\CAFileStream.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\obj\Debug\net7.0\CAFileStream.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\obj\Debug\net7.0\refint\CAFileStream.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\obj\Debug\net7.0\CAFileStream.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\obj\Debug\net7.0\CAFileStream.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAFileStream\obj\Debug\net7.0\ref\CAFileStream.dll

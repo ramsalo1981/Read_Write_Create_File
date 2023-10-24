@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\bin\Debug\net7.0\CAStreamDecorator.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\bin\Debug\net7.0\CAStreamDecorator.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\bin\Debug\net7.0\CAStreamDecorator.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\bin\Debug\net7.0\CAStreamDecorator.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\bin\Debug\net7.0\CAStreamDecorator.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\obj\Debug\net7.0\CAStreamDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\obj\Debug\net7.0\CAStreamDecorator.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\obj\Debug\net7.0\CAStreamDecorator.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\obj\Debug\net7.0\CAStreamDecorator.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\obj\Debug\net7.0\CAStreamDecorator.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\obj\Debug\net7.0\refint\CAStreamDecorator.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\obj\Debug\net7.0\CAStreamDecorator.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\obj\Debug\net7.0\CAStreamDecorator.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\IOStream\CAStreamDecorator\obj\Debug\net7.0\ref\CAStreamDecorator.dll
